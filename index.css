@@ -1,0 +1,86 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background: rgb(34, 34, 34);
+    color: white;
+    padding: 0px 100px 20px;
+    line-height: 1.3;
+    font-size: 20px;
+}
+
+nav{
+    margin-left: 60px;
+    margin-bottom: 40px; 
+}
+
+nav li{
+    display: inline;/* Aparecer a lista de navegação um ao lado do outro */
+    margin: 0 0 0 20px;/* Espaçamento entre os textos da lista */
+}
+
+nav a{
+    text-transform: uppercase;/* Transformar texto na hora da exibição em maiusculo */
+    color: white;
+    font-weight: bold;/* Peso da fonte é negrito */
+    font-size: 15px;
+    text-decoration: none;/* nenhuma decoração no texto, sem sublinhado... */
+    transition: 150ms;
+}
+
+nav a:hover{ /* quando o mouse esta em cima dos links dentro do menu de navegação */
+    color: gray;
+    text-decoration: underline;
+    font-size: 16px;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.parte{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.parte3{
+    margin-top: 50px;
+}
+
+.parte4{
+    margin-top: 50px;
+}
+
+.parte5{
+    margin-top: 50px;
+}
+
+.parte6{
+    margin-top: 50px;
+}
+
+.itens:before{
+    content: "★";
+}
+
+.itens{
+    line-height: 1.5;/* Altura da Linha */
+}
+
+.video{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.titulo7{
+    margin-bottom: 30px;
+}
+
+iframe{
+    border-radius: 20px;
+    transition: 520ms;
+}
+
+iframe:hover{
+    transform: scale(1.05);
+}
