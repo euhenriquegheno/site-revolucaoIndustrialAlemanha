@@ -84,3 +84,12 @@ iframe{
 iframe:hover{
     transform: scale(1.05);
 }
+
+ul{
+    list-style: none;
+}
+
+.mapa-alemanha{
+    margin-top: 50px;
+    text-align: center;
+}
