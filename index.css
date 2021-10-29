@@ -4,11 +4,11 @@ body{
     color: white;
     padding: 0px 100px 20px;
     line-height: 1.3;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 nav{
-    margin-left: 60px;
+    text-align: center;
     margin-bottom: 40px; 
 }
 
@@ -36,15 +36,28 @@ nav a:hover{ /* quando o mouse esta em cima dos links dentro do menu de navegaç
     text-align: center;
     font-weight: bold;
     margin-bottom: 20px;
+    font-size: 28px;
 }
 
-.parte{
-    margin-top: 50px;
+.titulo2{
+    font-weight: bold;
+    font-size: 25px;
     text-align: center;
+    padding-bottom: 10px;
+}
+
+.parte2{
+    margin-top: 50px;
 }
 
 .parte3{
     margin-top: 50px;
+}
+
+.titulosul{
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 10px;
 }
 
 .parte4{
@@ -72,8 +85,18 @@ nav a:hover{ /* quando o mouse esta em cima dos links dentro do menu de navegaç
     text-align: center;
 }
 
-.titulo7{
-    margin-bottom: 30px;
+.titulo-mapa{
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.titulo-video{
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 15px;
 }
 
 iframe{
