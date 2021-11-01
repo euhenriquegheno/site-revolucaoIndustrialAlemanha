@@ -54,7 +54,7 @@ nav a:hover{ /* quando o mouse esta em cima dos links dentro do menu de navegaç
     margin-top: 50px;
 }
 
-.titulosul{
+.titulo-ul{
     font-weight: bold;
     font-size: 25px;
     padding-bottom: 10px;
@@ -64,12 +64,44 @@ nav a:hover{ /* quando o mouse esta em cima dos links dentro do menu de navegaç
     margin-top: 50px;
 }
 
+.lista-setores{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.imagem-setores{
+    width: 400px;
+    border-radius: 20px;
+    transition: 400ms; 
+}
+
+.imagem-setores:hover{
+    transform: scale(1.08);
+}
+
 .parte5{
     margin-top: 50px;
 }
 
 .parte6{
-    margin-top: 50px;
+    margin: 50px auto;
+}
+
+.imagem-impactos{
+    width: 200px;
+    border-radius: 20px;
+    transition: 400ms;
+}
+
+.imagem-impactos:hover{
+    transform: scale(1.08);
+}
+
+.lista-impactos{
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .itens:before{
