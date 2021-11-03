@@ -39,15 +39,31 @@ nav a:hover{ /* quando o mouse esta em cima dos links dentro do menu de navegaç
     font-size: 28px;
 }
 
+.parte1{
+    text-align: center;
+}
+
+.bandeira-alemanha{
+    width: 250px;
+    text-align: center;
+    margin-top: 24px;
+    border-radius: 20px;
+    transition: 420ms;
+}
+
+.bandeira-alemanha:hover{
+    transform: scale(1.05);
+}
+
 .titulo2{
     font-weight: bold;
     font-size: 25px;
-    text-align: center;
     padding-bottom: 10px;
 }
 
 .parte2{
     margin-top: 50px;
+    text-align: center;
 }
 
 .parte3{
@@ -81,7 +97,13 @@ nav a:hover{ /* quando o mouse esta em cima dos links dentro do menu de navegaç
 }
 
 .parte5{
+    text-align: center;
     margin-top: 50px;
+}
+
+.titulo5{
+    font-weight: bold;
+    font-size: 25px;
 }
 
 .parte6{
