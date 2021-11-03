@@ -55,6 +55,10 @@ nav a:hover{ /* quando o mouse esta em cima dos links dentro do menu de navegaç
     transform: scale(1.05);
 }
 
+.saiba-alemanha{
+    text-align: center;
+}
+
 .titulo2{
     font-weight: bold;
     font-size: 25px;
