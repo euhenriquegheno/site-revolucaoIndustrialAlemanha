@@ -55,8 +55,13 @@ nav a:hover{ /* quando o mouse esta em cima dos links dentro do menu de navegaç
     transform: scale(1.05);
 }
 
-.saiba-alemanha{
-    text-align: center;
+.saibamais-alemanha{
+    text-align: center;   
+}
+
+.conteudo-saibamais{
+    text-decoration: none;
+    color: white;
 }
 
 .titulo2{
